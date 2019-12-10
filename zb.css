@@ -79,10 +79,6 @@ body {
 .btn.btn-clear[disabled]:hover {
   color: #9b4dca;
 }
-.btn.btn-black {
-  background-color: black;
-  border-color: black;
-}
 .hr {
   border: 0;
   border-top: 0.1rem solid #f4f5f6;
